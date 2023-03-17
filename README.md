@@ -12,6 +12,9 @@ The `references` directory has reference pictures of ronchis for a 203mm mirror 
 
 The `sessions` directory contains a picture of my figuring lap(s) and inside/outside ronchis for each sessions. Still a lot of work to do !
 
+## Update 2023-03-17
+![](https://lucassifoni.info/pics/k2/k22.JPG)
+
 ## Update 2022-12-03
 The scope is completed and waiting to be painted.
 ![](https://www.cloudynights.com/uploads/monthly_12_2022/post-327515-0-78723000-1670013759.jpeg)
